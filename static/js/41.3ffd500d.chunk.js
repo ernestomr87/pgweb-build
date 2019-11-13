@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[41],{1353:function(e,n,t){"use strict";t.r(n);var r=t(161),a=t(0),c=t.n(a),o=t(39),s=t(122);n.default=Object(o.g)(function(e){var n=e.component,t=e.history,a=Object(r.a)(e,["component","history"]),i=a.user,u=a.client;return c.a.createElement(o.b,Object.assign({},a,{render:function(e){var r=s.a.getToken();if(r&&"admin"===i.rol||r&&u)return c.a.createElement(n,Object.assign({user:i},e));s.a.clearAppStorage(),t.push("/")}}))})}}]);
+//# sourceMappingURL=41.3ffd500d.chunk.js.map
