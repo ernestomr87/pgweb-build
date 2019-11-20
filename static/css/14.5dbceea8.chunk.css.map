@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,oBAEE,0BACF,CAEA,4BACE,WACF","file":"14.5dbceea8.chunk.css","sourcesContent":["th.number,\r\ntd.number {\r\n  text-align: right !important;\r\n}\r\n\r\n.sub-table .ant-table-small {\r\n  border: none;\r\n}\r\n"]}
