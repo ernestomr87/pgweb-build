@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,8CAEE,kCAAoC,CACpC,8BAAgC,CAChC,oBACF,CACA,YACE,0BACF,CAEA,yBACE,YACE,YACF,CACA,eACE,YAAa,CACb,sBACF,CACF,CACA,yBACE,WACE,YACF,CACF,CAvBA,+BACE,cAAiB,CACjB,aACF","file":"29.1fea57ed.chunk.css","sourcesContent":[".row.justify-content-md-center {\r\n  margin-right: 0px;\r\n  margin-left: 0px;\r\n}\r\n"]}
