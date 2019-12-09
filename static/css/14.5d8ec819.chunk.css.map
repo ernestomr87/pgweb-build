@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,oBAEE,0BACF,CAEA,4BACE,WACF,CAEA,SACE,WAAY,CACZ,kBACF","file":"14.5d8ec819.chunk.css","sourcesContent":["th.number,\r\ntd.number {\r\n  text-align: right !important;\r\n}\r\n\r\n.sub-table .ant-table-small {\r\n  border: none;\r\n}\r\n\r\n.csv-btn {\r\n  float: right;\r\n  margin: 0 5px 5px 0px;\r\n}\r\n"]}
