@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,qBACE,eACF,CAEA,mBACE,0BAA4B,CAC5B,sBACF","file":"13.a96e247b.chunk.css","sourcesContent":[".ant-statistic-title {\n  min-height: 50px;\n}\n\n.language-textarea {\n  min-height: 200px !important;\n  line-height: 1.71428571;\n}\n"]}

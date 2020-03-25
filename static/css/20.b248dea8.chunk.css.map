@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,8DACE,gBAAiB,CACjB,iBACF,CAEA,2BACE,UACF","file":"20.b248dea8.chunk.css","sourcesContent":[".ant-table-filter-dropdown .ant-dropdown-menu-without-submenu {\r\n  max-height: 180px;\r\n  overflow-x: hidden;\r\n}\r\n\r\n.button-user-form .ant-col {\r\n  width: 100%;\r\n}\r\n"]}
